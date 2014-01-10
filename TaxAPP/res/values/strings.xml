@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaxAPP</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lblAmount">Enter taxable amount:</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="lblResult">Result:</string>
+
+</resources>
